@@ -1,0 +1,24 @@
+{
+	"styles": {
+		"dialog": {
+			"textColor": "#2181ed",
+			"size": 42,
+			"fontFamily": "fzcy",
+			"lineSpacing": 10,
+			"wordWrap": "true"
+		}
+	},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/CitySkin.exml",
+		"resource/eui_skins/EndSkin.exml",
+		"resource/eui_skins/game1/Game1ItemSkin.exml",
+		"resource/eui_skins/game1/Game1Skin.exml",
+		"resource/eui_skins/game2/Game2CandySkin.exml",
+		"resource/eui_skins/game2/Game2QuestionItemSkin.exml",
+		"resource/eui_skins/game2/Game2Skin.exml",
+		"resource/eui_skins/LoadingSkin.exml",
+		"resource/eui_skins/StartSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}
